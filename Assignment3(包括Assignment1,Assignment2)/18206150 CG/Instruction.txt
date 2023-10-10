@@ -1,0 +1,13 @@
+1. Press SPACE to begin skateboarding. Without pressing SPACE, you can not move the skateboarding man.
+2. After Pressing SPACE, 
+    press A to make the skateboarding man turn to west and go,
+    press D to make the skateboarding man turn to east and go, 
+    press W to make the skateboarding man turn to north and go,
+    press S to make the skateboarding man turn south and go,
+3. There is a door for transfering on the wall, you can operate the skateboarding man enter it, and appear in the other side
+4. Press J can make the football man pass the ball, you need press j after the football man get the ball.
+5. Every object have a model, you can not go through any object.
+6. If you are near the gymnastics man and  are in the front of him, you may get kicked out. (When the gymnastic man finishing turn the waist and go down, around 37 seconds form the beginning )
+7. After press SPACE, the skateboarding man will run, and jump, and be slower and slower until he stop, you need to press SPACE again to let him go again.
+8. You can press T to stop the movement of camera, and press T agian to let the camera following the skateboarding man.
+9. You can press Q and E to move the angle of  view.
